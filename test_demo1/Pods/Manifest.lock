@@ -1,0 +1,16 @@
+PODS:
+  - TestFreameWork (1.0.0)
+
+DEPENDENCIES:
+  - TestFreameWork (from `../TestFreameWork`)
+
+EXTERNAL SOURCES:
+  TestFreameWork:
+    :path: "../TestFreameWork"
+
+SPEC CHECKSUMS:
+  TestFreameWork: 2f843e2aad6c9b967ba902082e352a61fa551581
+
+PODFILE CHECKSUM: 371e8ddbd13f199f86f6c3947fb927d48125a938
+
+COCOAPODS: 1.5.3
